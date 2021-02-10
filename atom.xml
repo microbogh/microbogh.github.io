@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>micrObo - Fermenti di Comunità</title>
+ <link href="http://microbo.site/atom.xml" rel="self"/>
+ <id>http://microbo.site</id>
+ <updated>2021-02-10T17:52:17+01:00</updated>
+ <author>
+   <name></name>
+   <uri></uri>
+   <email></email>
+ </author>
+
+ 
+
+</feed>
